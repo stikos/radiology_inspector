@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data
+clinical_db/
+mimic_clinical_db/
+data/
